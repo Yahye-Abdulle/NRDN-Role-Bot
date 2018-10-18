@@ -1,2 +1,2 @@
 
-worker: NRDN bot.py
+worker: NRDN role.py
