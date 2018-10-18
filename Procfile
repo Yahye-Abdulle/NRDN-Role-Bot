@@ -1,0 +1,2 @@
+
+worker: NRDN bot.py
